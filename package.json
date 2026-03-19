@@ -1,0 +1,8 @@
+{
+  "name": "simple-erc20-token",
+  "version": "1.0.0",
+  "description": "Standard ERC-20 Token Project",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
